@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on an undergraduate degree in Computer Science
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m proficient in Java and currently learning C++
 - 👯 I’m looking to collaborate on tools for mapping IP networks
 - 💬 Ask me about optical network design and troubleshooting
 - 📫 How to reach me: [email](mailto:pjmccormick.work@gmail.com)
